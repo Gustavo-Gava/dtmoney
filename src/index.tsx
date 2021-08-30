@@ -46,14 +46,7 @@ createServer({
       return schema.create("transaction", data)
     })
 
-    this.delete("/transactions/:id", (schema, request) => {
-      let id = request.params.id
-      id = id.replace(":", "")
-
-      this.schema.transactions.find(id).destroy()
-
-      return this.schema.all("transaction")
-    })
+    this.delete("/transactions/:id")
   },
 })
 

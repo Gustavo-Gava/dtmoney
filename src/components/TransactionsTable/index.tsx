@@ -8,7 +8,9 @@ export function TransactionsTable() {
   const { setTransactions, transactions } = useTransactions()
 
   async function handleDeleteTransaction(transactionId: number) {
-    const response = await api.delete(`/transactions/:${transactionId}`)
+    await api.delete(`/transactions/${transactionId}`)
+
+    const response = await api.get("/transactions")
 
     setTransactions(response.data.transactions)
   }
