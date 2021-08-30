@@ -14,6 +14,8 @@ O projeto consiste em uma tabela de transações feitas pelo usuário, onde pode
 Foram usadas todas boas práticas para construir um projeto escalável e profissional.
 Apesar de ser um projeto onde usamos conceitos básicos, tive muito aprendizado pelas boas práticas, organização de código e lógica usadas pelo Diego.
 
+Foi usado o Miragejs para simular o back-end, onde foram criadas todas as rotas de get, post and delete.
+
 Também adicionei por conta própria a funcionalidade de excluir transações, que o projeto original não possuía. Essa funcionalidade se encontra no X vermelho, ao final de cada transação.
 
 ## Tecnologias usadas
