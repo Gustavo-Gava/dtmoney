@@ -1,4 +1,4 @@
-### Dtmoney
+# Dtmoney
 
 Um site de finanças pessoais onde você pode adicionar e remover gastos/ganhos, vendo o histórico e o valor acumulado.
 
