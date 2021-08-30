@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/dtmoney/static/js/main.ce343abf.chunk.js",
+    "main.js.map": "/dtmoney/static/js/main.ce343abf.chunk.js.map",
+    "runtime-main.js": "/dtmoney/static/js/runtime-main.69beff9e.js",
+    "runtime-main.js.map": "/dtmoney/static/js/runtime-main.69beff9e.js.map",
+    "static/js/2.37362d43.chunk.js": "/dtmoney/static/js/2.37362d43.chunk.js",
+    "static/js/2.37362d43.chunk.js.map": "/dtmoney/static/js/2.37362d43.chunk.js.map",
+    "index.html": "/dtmoney/index.html",
+    "static/js/2.37362d43.chunk.js.LICENSE.txt": "/dtmoney/static/js/2.37362d43.chunk.js.LICENSE.txt",
+    "static/media/close.c8ac969a.svg": "/dtmoney/static/media/close.c8ac969a.svg",
+    "static/media/income.d58effe2.svg": "/dtmoney/static/media/income.d58effe2.svg",
+    "static/media/logo.614d71d1.svg": "/dtmoney/static/media/logo.614d71d1.svg",
+    "static/media/outcome.6eb96d30.svg": "/dtmoney/static/media/outcome.6eb96d30.svg",
+    "static/media/total.e90c2d1e.svg": "/dtmoney/static/media/total.e90c2d1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69beff9e.js",
+    "static/js/2.37362d43.chunk.js",
+    "static/js/main.ce343abf.chunk.js"
+  ]
+}
