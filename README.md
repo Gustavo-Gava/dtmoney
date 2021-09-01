@@ -1,11 +1,13 @@
-# Dtmoney
-
 ![image](https://user-images.githubusercontent.com/77810817/131393359-db15acd3-58d5-45ce-8fb3-1a3ce60fb795.png)
+<p align="center"/>Um site de finanças pessoais onde você pode adicionar e remover gastos/ganhos, vendo o histórico e o valor acumulado. </p>
 
-Um site de finanças pessoais onde você pode adicionar e remover gastos/ganhos, vendo o histórico e o valor acumulado.
-#### Disponível [Aqui](https://gustavo-gava.github.io/dtmoney)
+<h3 align="center" >Tabela de conteúdos 📋 </h3>
 
-## Sobre
+<p align="center">
+  <a href="#sobre">Sobre</a> • <a href="#tecnologias">Tecnologias</a> • <a href="#como-rodar">Como rodar</a> • <a href="#requisitos">Pré requisitos</a> 
+</p>
+
+<h3 id="sobre"/> Sobre </h3>
 
 Projeto desenvolvido no Capítulo 2 da trilha React do Ignite.
 
@@ -18,14 +20,26 @@ Foi usado o Miragejs para simular o back-end, onde foram criadas todas as rotas 
 
 Também adicionei por conta própria a funcionalidade de excluir transações, que o projeto original não possuía. Essa funcionalidade se encontra no X vermelho, ao final de cada transação.
 
-## Tecnologias usadas
+<h3 id="funcionalidades"> ✅ Funcionalidades </h3>
+
+- [x] Adicionar novas transações;
+- [x] Ver o histórico de transações;
+- [x] Excluir transações.
+
+<h3 id="tecnologias"/>🛠 Tecnologias </h3>
 
 - Styled Components
 - React
 - Typescript
 - Miragejs
 
-## Como rodar?
+<h3 id="requisitos">🔧 Pré Requisitos</h3> 
+
+ * [Git](https://git-scm.com)
+ * [Yarn](https://yarnpkg.com)
+ * Editor de código de sua preferência.
+
+<h3 id="como-rodar"/> Como rodar </h3>
 
 ```
 # Clone esse repositório
